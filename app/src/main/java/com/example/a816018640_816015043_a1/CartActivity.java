@@ -26,7 +26,7 @@ public class CartActivity extends AppCompatActivity {
     }
 
     public void sendMessage(View view){
-        String number="+18682922952";
+        String number="+";
         String message;
         StringBuilder Items=new StringBuilder();
         ShoppingCart cart=(ShoppingCart) getIntent().getSerializableExtra("cart");
