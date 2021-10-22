@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">816018640_816015043_A1</string>
+    <string name="Cart">Add To Cart</string>
+    <string name="option1">Ryzen 7 4800h | 16GB RAM | 1TB | GeForce RTX 3060</string>
+    <string name="option2">Ryzen 7 5800h | 8GB RAM | 512TB | GeForce RTX 3050</string>
+    <string name="option3">Ryzen 7 5800h | 16GB RAM | 1TB | GeForce RTX 3050Ti</string>
+    <string name="option4">i5 | 16GB | 256GB SSD | GTX 1650</string>
+    <string name="option5">i5 | 16GB | 512GB SSD | GTX 1650</string>
+    <string name="option6">i5 | 8GB | 256GB SSD | GTX 1050</string>
+    <string name="option7">i5 | 8GB | 256GB PCIe SSD | GTX 1650</string>
+    <string name="option8">i5 | 16GB | 512GB PCIe SSD | GTX 1650</string>
+    <string name="option9">i5 | 16GB | 1TB PCIe SSD | GTX 1650</string>
+    <string name="option10">i7 11th GEN | 16GB | 1TB SSD | RTX 3070 | QHD 165Hz</string>
+    <string name="option11">i7 11th GEN | 16GB | 1TB SSD | RTX 3080 | FHD 360Hz</string>
+    <string name="option12">i7 11th GEN | 16GB | 1TB SSD | RTX 3080 | UHD 4k OLED</string>
+</resources>
